@@ -2,7 +2,8 @@
 
 Tea menu is a small website for you to keep track of all of the teas (or other drinks) you have in your unreasonably large tea collection. This makes it easier for you to remember to drink all your teas, and helps your guests choose what they'd like to drink.
 
-> [!INFO] > [Here's the live tea menu from the author's house](https://tea.fcg.place), go have a look!
+> [!NOTE]
+> Here's the [live tea menu from the author's house](https://tea.fcg.place), go have a look!
 
 Tea menu is an [Astro](https://astro.build) site. By default, it uses [Keystatic](https://keystatic.com/) as a Content Management System (CMS), to give you an online editing interface for your teas.
 
