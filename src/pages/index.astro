@@ -1,0 +1,18 @@
+---
+import Layout from "../layouts/Layout.astro";
+import { getCollection } from "astro:content";
+import TeaTable from "../components/TeaTable.svelte";
+export const prerender = true;
+const teas = await getCollection("teas");
+---
+
+<Layout title="Tea Menu!">
+  <main
+    class="mx-auto max-w-prose p-4 lg:p-8 dark:bg-gray-900 dark:text-gray-100"
+  >
+    <TeaTable
+      teas={teas[0].data.map((t, index) => ({ ...t, index }))}
+      client:load
+    />
+  </main>
+</Layout>

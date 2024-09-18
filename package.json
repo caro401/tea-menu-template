@@ -1,0 +1,38 @@
+{
+  "name": "tea-menu",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro",
+    "format": "prettier -w .",
+    "lint": "astro check"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.9.3",
+    "@astrojs/cloudflare": "^11.0.5",
+    "@astrojs/markdoc": "^0.11.4",
+    "@astrojs/react": "^3.6.2",
+    "@astrojs/svelte": "^5.7.1",
+    "@astrojs/tailwind": "^5.1.1",
+    "@keystatic/astro": "^5.0.0",
+    "@keystatic/core": "^0.5.35",
+    "@types/react": "^18.3.7",
+    "@types/react-dom": "^18.3.0",
+    "astro": "^4.15.7",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "svelte": "^4.2.19",
+    "tailwindcss": "^3.4.12",
+    "typescript": "^5.6.2"
+  },
+  "devDependencies": {
+    "prettier": "^3.3.3",
+    "prettier-plugin-astro": "^0.14.1",
+    "prettier-plugin-svelte": "^3.2.6",
+    "prettier-plugin-tailwindcss": "^0.6.6"
+  }
+}

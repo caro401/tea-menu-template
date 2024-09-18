@@ -1,0 +1,189 @@
+teas:
+  - name: Redbush
+    tags: []
+    ingredients: []
+    muchCaffeine: false
+    type: bag
+    base: red
+    inStock: true
+    brewTemp: 90
+    brewTime: 4 mins
+  - name: Vanilla redbush
+    tags: []
+    ingredients: []
+    muchCaffeine: false
+    type: loose
+    base: red
+    inStock: true
+    brewTemp: 90
+    brewTime: 4 mins
+  - name: Strawberry and cream
+    tags: []
+    ingredients: []
+    muchCaffeine: false
+    type: loose
+    base: red
+    inStock: true
+    brewTemp: 90
+    brewTime: 4 mins
+  - name: Peanut butter hot chocolate sachet
+    tags:
+      - chocolate
+      - real
+    ingredients: []
+    muchCaffeine: false
+    type: loose
+    base: not
+    inStock: false
+    brewTemp: 70
+    brewTime: 1.5--2 mins microwaved milk
+    whereFrom: Hotel Chocolat
+  - name: Options instant hot chocolate
+    tags:
+      - chocolate
+      - instant
+    ingredients: []
+    muchCaffeine: false
+    type: loose
+    base: not
+    inStock: true
+    brewTemp: 100
+    brewTime: 0 mins
+  - name: Dong fang mei ren
+    tags: []
+    ingredients: []
+    muchCaffeine: true
+    type: loose
+    base: oolong
+    inStock: true
+    brewTemp: 90
+    brewTime: 2--3 mins
+    whereFrom: Tealyra
+  - name: Prince Vladimir
+    tags: []
+    ingredients:
+      - China tea
+      - bergamot
+      - lemon
+      - grapefruit
+      - vanilla
+      - spices
+    muchCaffeine: true
+    type: loose
+    base: black
+    inStock: true
+    brewTemp: 100
+    brewTime: 3 mins
+    whereFrom: Kusmi tea
+  - name: Chai
+    tags: []
+    ingredients:
+      - black tea
+      - cinnamon
+      - clove
+      - ginger
+      - cumin
+      - coriander
+      - star anise
+      - fennel
+    muchCaffeine: true
+    type: loose
+    base: black
+    inStock: true
+    brewTemp: 100
+    brewTime: 5 mins
+    whereFrom: Fortnum & Mason
+  - name: Genmaicha
+    tags: []
+    ingredients:
+      - green tea
+      - toasted rice
+    muchCaffeine: true
+    type: loose
+    base: green
+    inStock: true
+    brewTemp: 70
+    brewTime: 2--3 mins
+  - name: After eight
+    tags: []
+    ingredients: []
+    muchCaffeine: true
+    type: loose
+    base: black
+    inStock: true
+    brewTemp: 100
+    brewTime: 2--3 mins
+  - name: Black dragon
+    tags: []
+    ingredients: []
+    muchCaffeine: true
+    type: loose
+    base: oolong
+    inStock: true
+    brewTemp: 90
+    brewTime: 2--3 mins
+  - name: Mint and green
+    tags: []
+    ingredients:
+      - green tea
+      - mint
+    muchCaffeine: true
+    type: loose
+    base: green
+    inStock: true
+    brewTemp: 70
+    brewTime: 2--3 mins
+  - name: Smoky grey
+    tags: []
+    ingredients:
+      - earl grey
+      - lapsang
+    muchCaffeine: true
+    type: loose
+    base: black
+    inStock: true
+    brewTemp: 100
+    brewTime: 3--4 mins
+  - name: Gui hua osmanthus oolong
+    tags: []
+    ingredients:
+      - oolong tea
+      - osmanthus
+    muchCaffeine: true
+    type: loose
+    base: oolong
+    inStock: true
+    brewTemp: 90
+    brewTime: 2--3 mins
+    whereFrom: Tealyra
+  - name: Peppermint
+    tags: []
+    muchCaffeine: false
+    type: bag
+    base: herby
+    inStock: true
+    brewTemp: 100
+    brewTime: 5--8 mins
+  - name: Winter tea
+    tags: []
+    ingredients:
+      - apple
+      - redbush
+      - chicory root
+      - rose
+    muchCaffeine: false
+    type: bag
+    base: red
+    inStock: true
+    brewTemp: 90
+    brewTime: 5 mins
+  - name: Lapsang souchong
+    tags: []
+    ingredients: []
+    muchCaffeine: true
+    type: bag
+    base: black
+    inStock: true
+    brewTemp: 100
+    brewTime: 3--5 mins
+    whereFrom: Twinings
